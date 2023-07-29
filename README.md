@@ -22,3 +22,7 @@
 ### Commit 004 - 29.07.2023
 * Criado pasta Aula 004
 * Criado arquivo Variáveis.py
+
+### Commit 005 - 29.07.2023
+* Criado pasta Aula 005
+* Criado arquivo Operadores.py

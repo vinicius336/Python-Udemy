@@ -1,0 +1,42 @@
+print()
+print("### INÍCIO DO PROGRAMA")
+print()
+
+print("Operadores Lógicos e Relacionais são símbolos que relacionam os valores a serem manipulados para que possam ser tomadas decições em um programa!")
+print()
+print("Já vimos os operadores Matemáticos:")
+print("Adição        :: +", )
+print("Subtração     :: -", )
+print("Multiplicação :: *", )
+print("Divisão       :: /", )
+print("Exponenciação :: **", )
+print("Módulo        :: %", )
+print()
+
+print("Operador de atribuição =")
+print(" x = 10 :: Lê-se, 'x recebe 10'")
+print()
+
+print("OPERADORES RELACIONAIS")
+print("Igual            ::  ==")
+print("Diferente        ::  !=")
+print("Maior            ::  >")
+print("Menor            ::  <")
+print("Maior ou igual   ::  >=")
+print("Menor ou igual   ::  <=")
+print()
+print("Aplicando os Operadores Relacionais (Veja no código)")
+
+x = 2
+y = 3
+print("x = ",x)
+print("y = ",y)
+print("x == y ::", x == y)
+print("x != y ::", x != y)
+print("x > y  ::", x > y )
+print("x < y  ::", x < y )
+print("x >= y ::", x >= y)
+print("x <= y ::", x <= y)
+
+print()
+print("### FIM DO PROGRAMA")
