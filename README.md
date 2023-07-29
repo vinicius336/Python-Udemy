@@ -30,3 +30,7 @@
 ### Commit 006 - 29.07.2023
 * Alterado nome de Operadores.py para Operadores Relacionais.py
 * Criado arquivo Operadores Lógicos.py na pasta Aula 005
+
+### Commit 007 - 29.07.2023
+* Criado pasta Aula 006 - Estruturas condicionais
+* Criado arquivo IF.py
