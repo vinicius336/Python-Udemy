@@ -18,3 +18,7 @@
 * Criando arquivo Operações matemáticas.py
 * Organização das operações matemáticas básicas
 * Adição de descrição no início do Readme.md
+
+### Commit 004 - 29.07.2023
+* Criado pasta Aula 004
+* Criado arquivo Variáveis.py
