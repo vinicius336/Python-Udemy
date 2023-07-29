@@ -38,3 +38,7 @@
 ### Commit 008 - 29.07.2023
 * Criado arquivo elif.py
 * Criado arquivo else.py
+
+### Commit 009 - 29.07.2023
+* Criado pasta Aula 007 - Estruturas de Repetição
+* Criado arquivo While.py
