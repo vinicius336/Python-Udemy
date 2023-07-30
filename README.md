@@ -42,3 +42,6 @@
 ### Commit 009 - 29.07.2023
 * Criado pasta Aula 007 - Estruturas de Repetição
 * Criado arquivo While.py
+
+### Commit 010 - 29.07.2023
+* Criado arquivo For.py
