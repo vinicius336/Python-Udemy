@@ -52,3 +52,7 @@
 ### Commit 012 - 29.07.2023
 * Criado pasta Aula 008 - Strings
 * Criado arquivo String1.py
+
+### Commit 013 - 29.07.2023
+* Criago arquivo String2.py
+* Adicionado várias observações em comentários e descrições no programa sobre os principais métodos do objeto String
