@@ -45,3 +45,6 @@
 
 ### Commit 010 - 29.07.2023
 * Criado arquivo For.py
+
+### Commit 011 - 29.07.2023
+* Criado arquivo For e range.py
