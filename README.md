@@ -48,3 +48,7 @@
 
 ### Commit 011 - 29.07.2023
 * Criado arquivo For e range.py
+
+### Commit 012 - 29.07.2023
+* Criado pasta Aula 008 - Strings
+* Criado arquivo String1.py
