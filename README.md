@@ -56,3 +56,8 @@
 ### Commit 013 - 29.07.2023
 * Criago arquivo String2.py
 * Adicionado várias observações em comentários e descrições no programa sobre os principais métodos do objeto String
+
+### Commit 014 - 30.07.2023
+* Alterado nome do repositório
+* Criado pasta Aula 009 - Funções
+* Criado arquivo Funções.py
