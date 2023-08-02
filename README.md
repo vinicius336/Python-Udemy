@@ -61,3 +61,6 @@
 * Alterado nome do repositório
 * Criado pasta Aula 009 - Funções
 * Criado arquivo Funções.py
+
+### Commit 015 - 02.08.2023
+* Add pasta e arquivo
